@@ -1,4 +1,4 @@
 <?php 
-echo "version 1 : factorial"
+echo "version 2 : fibbnocci"
 
 ?>
