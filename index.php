@@ -1,4 +1,4 @@
 <?php 
-echo "Init version1"
+echo "version 1 : factorial"
 
 ?>
